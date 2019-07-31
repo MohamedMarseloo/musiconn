@@ -1,0 +1,5 @@
+token=NjA2MDg3ODU0NDQzMDY5NDY2.XUF9VA.OHBPKYgzrJdrWJ0dBhtI0up692o
+owner=555081750712287272
+prefix=m
+stayinchannel=true
+songinstatus=true
